@@ -1,0 +1,30 @@
+{
+  "name": "dominoes-server",
+  "version": "1.0.0",
+  "description": "A real time dominoes points share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quaverBit/dominoes-server.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "sockets",
+    "realtime",
+    "dominoes"
+  ],
+  "author": "quaverBit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quaverBit/dominoes-server/issues"
+  },
+  "homepage": "https://github.com/quaverBit/dominoes-server#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1",
+    "uuid": "^3.3.2"
+  }
+}
